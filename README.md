@@ -2,11 +2,11 @@
 
 ## Project description
 
-TODO: Replace this line with a 30-300 character description of what this project does. (This is part of the assignment, read on and it will make more sense.)
+We are reviewing a list of patient blood presure values, the usable patient vists that are valid rows, and a list of patients past a cut-off (assuming a follow-up)
 
 ## Run
 
-TODO: python3 clinic_report.py
+python3 clinic_report.py
 
 ## Files
 
