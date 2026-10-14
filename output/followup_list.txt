@@ -1,3 +1,10 @@
 Cutoff: 140 mmHg
 Reason: 140 mmHg marks stage 2 hypertension and yields a call list the clinic can realistically complete this week.
+P002
+P006
+P011
+P014
+P018
+P022
+P025
 P028

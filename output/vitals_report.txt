@@ -1,6 +1,6 @@
-Usable encounters: 1
+Usable encounters: 25
 Skipped rows: 6
-Patients seen: 1
-Mean systolic: 144.0 mmHg
-Highest systolic: 144 mmHg
-Lowest systolic: 144 mmHg
+Patients seen: 23
+Mean systolic: 135.9 mmHg
+Highest systolic: 186 mmHg
+Lowest systolic: 98 mmHg

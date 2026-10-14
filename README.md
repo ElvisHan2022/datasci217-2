@@ -3,7 +3,6 @@
 ## Project description
 
 We are reviewing a list of patient blood presure values, the usable patient vists that are valid rows, and a list of patients past a cut-off (assuming a follow-up)
-
 ## Run
 
 python3 clinic_report.py

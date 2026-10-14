@@ -56,14 +56,13 @@ def read_encounters(data_path):
             print(f"Skipping {patient_id}: {systolic} mmHG is outside 60-250")
             skipped += 1
             continue
-    # count every other data row as skipped, the blank line included,
-    #       and print one line per skipped row so you can see what dropped out.
-    encounters.append({
-        "patient_id": patient_id,
-        "visit_date": visit_date,
-        "systolic": systolic,
-    })
-    # TODO: end with `return encounters, skipped`.
+
+        encounters.append({
+            "patient_id": patient_id,
+            "visit_date": visit_date,
+            "systolic": systolic,
+        })
+
     return encounters, skipped
 
 
